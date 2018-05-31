@@ -10,11 +10,7 @@ Tested on python version: 3.5.1
 
 ####Configuration
 * Edit email, password and/or device MAC Address
-* Execute
-```
-copy config_example.ini config.ini
-```
-And add your credentials there
+* copy config_example.ini config.ini (and edit with your credentials)
 * [Optional] clone https://josep_a11@bitbucket.org/josep_a11/sendgrid (.git) and put the parent folder on a environment variable called SENDGRID_DIR. Also, set the SENDGRID_API_KEY.
 
 
